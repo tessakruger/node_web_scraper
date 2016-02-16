@@ -1,0 +1,26 @@
+{
+  "name": "node_web_scraper",
+  "version": "1.0.0",
+  "description": "Creating a node module to parse a remote webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tessakruger/node_web_scraper.git"
+  },
+  "keywords": [
+    "node",
+    "module",
+    "js",
+    "web",
+    "scaper"
+  ],
+  "author": "",
+  "license": "// Create Express app",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
+}
